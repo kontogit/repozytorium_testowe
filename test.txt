@@ -2,3 +2,4 @@ test
 
 dodany tekst
 kolejny tekst
+no i jeszcze jeden
